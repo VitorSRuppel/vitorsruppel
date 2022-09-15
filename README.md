@@ -1,8 +1,7 @@
 ## Olá! Eu sou Vitor Ruppel
 ### Estudante de Engenharia Elétrica - 7º período
 #### Criei este perfil para publicar meus projetos e meu estudos.
-####  Caso queira entrar em contato, mande-me um email:
-### <a href="vitorruppel@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Write to me"></a>
+####  Caso queira entrar em contato, mande-me um email: vitorruppel@gmail.com
 
 ### Graduating in Electrical Engineering - 7º period
 #### Here is my portfolio
